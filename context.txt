@@ -1,0 +1,47 @@
+My name is Atharva Pandey.
+
+=== BASICS ===
+I am a third-year B.Tech Computer Science student (2024-2028), pursuing my degree at JNCT Rewa, affiliated with RGPV (Rajiv Gandhi Proudyogiki Vishwavidyalaya) university. I am based in India.
+
+I am building toward a career as an AI/ML engineer, with a long-term goal of working in the US. My focus areas are machine learning, deep learning, NLP, and generative AI. I am currently deepening my knowledge across AI, ML, data science, and deep learning, and am actively applying for internships in these areas.
+
+=== ACADEMICS ===
+I scored 86.6% in my Class 12 board exams and 84.6% in my Class 10 board exams, ranking in the top 10 of my class in both years and my college current cgpa is 7.44.
+
+=== CERTIFICATIONS ===
+I hold the following certifications: Introduction to Data Science (Cisco Networking Academy), SQL Certification (Simplilearn), and a complete Machine Learning & Deep Learning Bootcamp (Krish Naik).
+
+=== PROJECTS ===
+I have built and shipped over 10 end-to-end machine learning and deep learning projects:
+
+- UPI Fraud Detection: XGBoost with SHAP explainability, achieving 92% accuracy using a VotingClassifier ensemble.
+- Mental Health Text Analyzer: BiLSTM + CNN architecture for text classification, with class imbalance handling, achieving 68% accuracy.
+- Power Consumption Forecasting: Stacked LSTM time-series model achieving an R² of 0.97.
+- Fake News Detector: Logistic Regression with TF-IDF features, SHAP explainability, and VADER sentiment analysis.
+- Laptop Price Predictor: Stacking Regressor with a custom "Deal Score" feature, deployed via Streamlit.
+- Financial Fraud Detection: Full pipeline using SMOTE for class imbalance, RobustScaler, Autoencoders for anomaly detection, and a 7-tab Streamlit dashboard comparing five classical models.
+- Spotify Music Recommendation System: Cosine similarity on audio features, VADER-based mood detection, and TF-IDF-based lyrics search.
+- Chat-with-PDF (RAG): Built using LangChain, FAISS, and Gemini embeddings — a document question-answering system.
+- Multi-Tool Research Assistant: An agentic system using LangChain's agent framework, Groq for tool-routing, and Gemini for final answers, combining document search, web search, and Wikipedia lookup.
+- Support Ticket Triage Agent for Fintech (in progress): Combines data science, NLP, and machine learning with a LangChain + RAG architecture to automatically classify and prioritize support tickets. Includes a self-critique/hallucination-check step where an LLM reviews its own classification, a VADER-based sentiment and tone analysis feature to gauge ticket urgency, and a comparison of three approaches — keyword baseline, trained ML classifier, and LLM-only classifier — to evaluate which performs best for triage.
+
+=== TECHNICAL SKILLS & PRACTICES ===
+My technical skills include Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, LangChain, SQL, Streamlit, and Git/GitHub.
+
+I follow solid ML engineering practices: preventing data leakage by fitting scalers only on training data, using chronological train/test splits for time-series problems to avoid temporal leakage, and understanding trade-offs between MinMaxScaler, RobustScaler, and StandardScaler. My deep learning work has covered ANN regression, LSTM, BiLSTM, CNN, and transformer/BERT concepts.
+
+=== STRENGTHS ===
+I am strong-willed and mentally tough, with a strong sense of follow-through — once I start something, I finish it. I am focused and observant, and tend to work independently rather than in groups. I am driven to build distinctive, high-impact work rather than following conventional or trend-chasing approaches, and I take real ownership of what I build.
+
+Examples of this in practice: I independently built and shipped over 10 end-to-end ML/DL/GenAI projects, often debugging unfamiliar tools and APIs solo rather than relying on tutorials to the letter. I also have a track record of consistent academic performance — ranking in the top 10 of my class in both Class 10 and Class 12 board exams — alongside independently shipping projects outside coursework.
+
+=== CURRENT FOCUS ===
+I am actively applying for AI/ML internships, including recent applications to a fintech-focused AI buildathon and an NGO-based ML internship. I recently completed an AI screening interview and am preparing for an internship interview covering model training, NLP, and deployment.
+
+=== HOBBIES ===
+Outside of academics and coding, I enjoy walking, spending time with friends and family, and playing kabaddi.
+
+
+
+
+
