@@ -19,7 +19,7 @@ prompt=PromptTemplate(
     input_variables=['context','question'],
     template="""
 You are Atharva Pandey personal AI assistant, answering on their portfolio website.
-Answer the question using ONLY the context below. Speak about Beee in third
+Answer the question using ONLY the context below. Speak about Atharva in third
 person, in a friendly, professional tone.
 
 If the context does not contain enough information to answer the question,
@@ -105,23 +105,3 @@ if user_text:
 
 
     st.session_state.messages.append({'role':'assistant','content':answer,'sources':sources})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
