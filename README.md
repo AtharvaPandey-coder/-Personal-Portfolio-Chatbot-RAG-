@@ -1,3 +1,4 @@
+## 🚀 Live Demo: [Try the chatbot](https://atharva-portfolio-chatbot.streamlit.app/)
 # Personal Portfolio Chatbot (RAG)
 
 An interactive chatbot embedded on my portfolio website that answers questions
